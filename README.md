@@ -44,4 +44,4 @@ signal for minority-class detection like churn identification.
    interactions like tenure × contract type natively, and should push validation
    F1 meaningfully above the ~0.35 ceiling that logistic regression has hit.
    This is exactly what Module 5 Week B addresses — and the learning curves
-   here make the case for why it is the necessary next step."""
+   here make the case for why it is the necessary next step.
